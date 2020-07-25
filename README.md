@@ -12,6 +12,7 @@ To create a new project based on this template using [degit](https://github.com/
 npx degit sveltejs/template  myfullsveltejs
 cd  myfullsveltejs
 ```
+ ![alt text]( https://github.com/sanogotech/myfullsveltejs/blob/master/docs/images/todolistappflow.png "Sveltejs APP Flow")
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
